@@ -6,7 +6,7 @@
 
 ![Davi Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=RakaDavii&show_icons=true&theme=radical)
 
-### Tecnologias que utilizadas no meu dia a dia
+### Tecnologias utilizadas no meu dia a dia
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakaDavii&layout=compact)
 
